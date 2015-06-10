@@ -1,0 +1,14 @@
+09 Jun 21:43:23 - [32minfo[0m: application started on http://localhost:3333/
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: EBADF, read
+  at Error (native)
+
+09 Jun 21:44:37 - [32minfo[0m: application started on http://localhost:3333/
+events.js:85
+      throw er; // Unhandled 'error' event
+            ^
+Error: EBADF, read
+  at Error (native)
+
